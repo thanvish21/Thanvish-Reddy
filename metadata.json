@@ -1,0 +1,8 @@
+{
+  "name": "SYSTEM-X | JEE Mentor",
+  "description": "Elite JEE Mains coaching system with advanced college constraint modeling, time-crunch prioritization, and energy-aware study planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
